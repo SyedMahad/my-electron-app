@@ -1,0 +1,28 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "My first Electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SyedMahad/my-electron-app.git"
+  },
+  "keywords": [
+    "first",
+    "electron",
+    "app"
+  ],
+  "author": "Syed Mahad Ehsan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SyedMahad/my-electron-app/issues"
+  },
+  "homepage": "https://github.com/SyedMahad/my-electron-app#readme",
+  "devDependencies": {
+    "electron": "^32.0.1"
+  }
+}
